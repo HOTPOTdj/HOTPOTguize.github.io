@@ -1,1 +1,1 @@
-<img width="4962" height="3508" alt="HOTPOT管理制度 (1)" src="https://github.com/user-attachments/assets/b041dfec-1f52-4176-891c-0cfc519b9c25" />
+<img width="2481" height="2104" alt="HOTPOT管理制度 (3)" src="https://github.com/user-attachments/assets/44a5c103-d04b-4b50-be32-ffa6694806c7" />
