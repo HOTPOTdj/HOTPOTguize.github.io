@@ -1,2 +1,2 @@
-<img width="2481" height="1028" alt="HOTPOT管理制度 (5)" src="https://github.com/user-attachments/assets/562cb4c3-e95a-4e18-a1d2-7b86ccd35b78" />
-<img width="2481" height="1028" alt="HOTPOT管理制度 (6)" src="https://github.com/user-attachments/assets/db2cf763-3c28-4e71-b931-3525d49c3fb6" />
+<img width="2627" height="910" alt="HOTPOT管理制度 (5)" src="https://github.com/user-attachments/assets/3d6e99b5-be19-4aa5-8f3e-57ae894f9509" />
+<img width="2661" height="922" alt="HOTPOT管理制度 (6)" src="https://github.com/user-attachments/assets/e9043eaf-b34c-4053-a676-50d33900d6da" />
